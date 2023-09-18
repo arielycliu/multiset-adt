@@ -1,5 +1,5 @@
 
-public class MultiSet {
+public abstract class MultiSet {
     /*
     An abstract class representing the MultiSet ADT, which supports the
     add, remove, is_empty, count, and contains operations.
